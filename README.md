@@ -27,7 +27,7 @@ The current edition supports English and Chinese throughout the book, including 
 
 ## Preview
 
-![Helios Physics interactive book preview](assets/helios-physics-readable.png)
+![Helios Physics interactive book preview](helios-physics-readable.png)
 
 ## Demonstration video
 
